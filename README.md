@@ -1,4 +1,4 @@
-
+This is my biggest group project where we developed a web API and a client application. By using REST architecture, EntityFramework and ASP.NET, we constructed the API which could allow external services and applications to retrieve and modify data in our own application.  
 
 ## Endpoints with their assigned payloads
 
